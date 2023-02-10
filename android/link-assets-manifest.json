@@ -1,0 +1,61 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/PPNeueMontreal-Bold.ttf",
+      "sha1": "f32052b664a3e6d10db7121c6d3b6d93c5440e74"
+    },
+    {
+      "path": "assets/fonts/PPNeueMontreal-BoldItalic.ttf",
+      "sha1": "38d66087e6516f1f1d02446b2f32ca0aeca14087"
+    },
+    {
+      "path": "assets/fonts/PPNeueMontreal-Book.ttf",
+      "sha1": "924a68269cf280d48e1b3819776b782e437e9ebf"
+    },
+    {
+      "path": "assets/fonts/PPNeueMontreal-BookItalic.ttf",
+      "sha1": "315090326a30eba00b3507a8148f3c3ebfb01399"
+    },
+    {
+      "path": "assets/fonts/PPNeueMontreal-Italic.ttf",
+      "sha1": "cca4960d34787f5cd228bb5d9e10478179c90941"
+    },
+    {
+      "path": "assets/fonts/PPNeueMontreal-Light.ttf",
+      "sha1": "7b57b86f91cc5081e69a0d714617695215e25163"
+    },
+    {
+      "path": "assets/fonts/PPNeueMontreal-LightItalic.ttf",
+      "sha1": "f73c969954427f38388420df39a056af4aef53a2"
+    },
+    {
+      "path": "assets/fonts/PPNeueMontreal-Medium.ttf",
+      "sha1": "6660286d6268142f080ea268745566392771e647"
+    },
+    {
+      "path": "assets/fonts/PPNeueMontreal-MediumItalic.ttf",
+      "sha1": "c21a24b4dc65fa39aa93a0a348a2f6287220b1b0"
+    },
+    {
+      "path": "assets/fonts/PPNeueMontreal-Regular.ttf",
+      "sha1": "6f8691d51baae77a5dd8f392b5f04e990b256722"
+    },
+    {
+      "path": "assets/fonts/PPNeueMontreal-SemiBold.ttf",
+      "sha1": "3c8e38e45a80fc1058e89a5e332a5b3de3bf231e"
+    },
+    {
+      "path": "assets/fonts/PPNeueMontreal-SemiBolditalic.ttf",
+      "sha1": "a95e48b9cbb4932ea7544feb78126002fa7bbb8e"
+    },
+    {
+      "path": "assets/fonts/PPNeueMontreal-Thin.ttf",
+      "sha1": "24894234975fab63df5e75724ee5df123a3522e9"
+    },
+    {
+      "path": "assets/fonts/PPNeueMontreal-ThinItalic.ttf",
+      "sha1": "3732f5cb010b3f353c6403f9447849e52a1dff85"
+    }
+  ]
+}
